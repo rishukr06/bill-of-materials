@@ -1,0 +1,12 @@
+Item Name,Level,Raw material,Quantity,Unit 
+Fan,.1,Motor,1.000,PC
+Fan,..2,Wires,20.000,m
+Fan,..2,Plates,2.000,PC
+Fan,.1,Blades,3.000,PC
+Fan,.1,Screws,10.000,PC
+Toy,.1,Plastic sheet,1.000,SqM
+Toy,.1,Metal Tools,3.000,Pc
+Toy,..2,Iron chips,10.000,Pc
+Toy,..2,Copper granule,0.500,Kg
+Toy,..3,Copper Dust,1.000,Kg
+Toy,.1,Packaging Box,1.000,Pc
